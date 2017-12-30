@@ -48,6 +48,7 @@ figcaption {
 }
 
 /* Pseudo selectors */
-.details {
-
+#details a:link, a:visited {
+  color: black;
+  text-decoration: none;
 }
