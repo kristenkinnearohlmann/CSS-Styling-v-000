@@ -9,5 +9,5 @@ selector {
 /* Type selector */
 
 p {/* select all <p> elements */
-  font-size:
+  font-size: 16px; /* 16px, ?pt, 100%, 1em */
 }
